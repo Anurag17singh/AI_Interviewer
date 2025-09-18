@@ -2,7 +2,7 @@
 
 ## Design Document & Approach Strategy
 
-* This is a short report (2–4 pages) explaining:
+* This is a short report explaining:
 
 ## Problem Statement: Need for an AI-driven interviewer with proctoring.
 
