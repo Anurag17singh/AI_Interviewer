@@ -43,3 +43,17 @@
 * Camera required (via browser).
 
 * Tab switching tracked via WebSocket events.
+
+ai-interviewer-poc/
+* │── app.py
+* │── evaluator.py
+* │── llm_model.py
+* │── proctor_server.py
+* │── requirements.txt
+* │── .env.example
+* │── README.md  (Design & Strategy)
+* │── transcripts/
+* │    ├── sample1.json
+* │    ├── sample2.json
+* │    └── sample3.json
+
