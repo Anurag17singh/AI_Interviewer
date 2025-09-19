@@ -52,8 +52,4 @@ ai-interviewer-poc/
 * │── requirements.txt
 * │── .env.example
 * │── README.md  (Design & Strategy)
-* │── transcripts/
-* │    ├── sample1.json
-* │    ├── sample2.json
-* │    └── sample3.json
 
