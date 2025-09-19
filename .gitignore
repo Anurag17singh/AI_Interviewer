@@ -1,0 +1,66 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+# Ignore ALL local venv folders
+venv/
+.venv/
+ENV/
+Lib/
+Scripts/
+etc/
+share/
+
+# ----------------------------
+# Streamlit & Cache
+# ----------------------------
+.streamlit/
+.cache/
+__cache__/
+logs/
+*.log
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+.ipynb_checkpoints
+.gitignore
+
+# ----------------------------
+# Build / Packaging
+# ----------------------------
+build/
+dist/
+
+# ----------------------------
+# Secrets / Keys
+# ----------------------------
+.env
+.env.*
+*.secret
+*.key
+*.pem
+
+# ----------------------------
+# IDE / Editors
+# ----------------------------
+.vscode/
+.idea/
+*.iml
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
